@@ -1,6 +1,7 @@
 # MuS2-Projekt
 Unsupervised Domain Adaptation
-Haas, Korn, Scherl
+
+durchgeführt von: Haas, Korn, Scherl
 
 Quelle für PyTorch-GANs: https://github.com/eriklindernoren/PyTorch-GAN
 
