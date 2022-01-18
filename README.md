@@ -1,10 +1,16 @@
 # MuS2-Projekt
 Unsupervised Domain Adaptation
+Haas, Korn, Scherl
 
+Quelle für PyTorch-GANs: https://github.com/eriklindernoren/PyTorch-GAN
+
+In diesem Projekt werden Bilder einer Zieldomäne mithilfe von Generative Adversarial Networks (GANs) synthetisiert.
+Hierfür werden verschiedene Wasserstein-GAN (WGAN) implementiert, um synthetische Bilder zu generieren.
+Als Datensatz wird der "Indoor Scene Recognition" Datensatz (Quelle: http://web.mit.edu/torralba/www/indoor.html) verwendet, wobei die Kategorie "kitchen" für dieses Projekt gewählt wird.
 
 # Vorbereitung
 
-Herunterladen der Dateien aus dem Git-Respository: https://github.com/AlexanderKorn1/MuS2-Projekt
+Herunterladen der Dateien aus dem Git-Repository: https://github.com/AlexanderKorn1/MuS2-Projekt
 
 Entpacken des "pics" Zip Folders (dieser beinhaltet das Trainingsset mit realen Küchenbildern)
 
