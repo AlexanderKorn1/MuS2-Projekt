@@ -6,7 +6,7 @@ durchgeführt von: Haas, Korn, Scherl
 Quelle für PyTorch-GANs: https://github.com/eriklindernoren/PyTorch-GAN
 
 In diesem Projekt werden Bilder einer Zieldomäne mithilfe von Generative Adversarial Networks (GANs) synthetisiert.
-Hierfür werden verschiedene Wasserstein-GAN (WGAN) implementiert, um synthetische Bilder zu generieren.
+Hierfür werden verschiedene GANs, wie Wasserstein-GAN (WGAN) und WGAN-Gradient Penalty (WGAN-GP) implementiert, um synthetische Bilder zu generieren.
 Als Datensatz wird der "Indoor Scene Recognition" Datensatz (Quelle: http://web.mit.edu/torralba/www/indoor.html) verwendet, wobei die Kategorie "kitchen" für dieses Projekt gewählt wird.
 
 # Vorbereitung
