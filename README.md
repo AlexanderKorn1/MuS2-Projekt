@@ -2,7 +2,7 @@
 Unsupervised Domain Adaptation
 
 
-Ausführen der implementierten Lösung:
+# Vorbereitung
 
 Herunterladen der Dateien aus dem Git-Respository: https://github.com/AlexanderKorn1/MuS2-Projekt
 
@@ -11,9 +11,9 @@ Entpacken des "pics" Zip Folders (dieser beinhaltet das Trainingsset mit realen 
 Terminal starten und in das Verzeichnis des Projektordners wechseln
 
 
-Ausführen der gewünschten WGAN Implementierung mit dem Befehl:
+# Ausführen der gewünschten WGAN Implementierung
 
-python3 wgan_mus.py oder python3 wgan_gp_mus.py
+Befehl: python3 wgan_mus.py oder python3 wgan_gp_mus.py
 
 Die Hyperparameter des WGANs können entweder direkt im Programmcode oder im Terminal beim Programmaufruf via Argumente verändert werden
 
